@@ -1,0 +1,12 @@
+.{
+    .name = .zig_anthropic,
+    .version = "0.0.1",
+    .dependencies = .{},
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "README.md",
+    },
+    .fingerprint = 0xad0fd600cbdbfbe4,
+}
